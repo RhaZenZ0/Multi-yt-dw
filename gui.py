@@ -140,3 +140,4 @@ if __name__ == "__main__":
     gui = DownloaderGUI()
     gui.show()
     sys.exit(app.exec())
+    
